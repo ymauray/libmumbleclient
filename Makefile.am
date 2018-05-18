@@ -1,5 +1,5 @@
 dist_doc_DATA = README.md
-data_DATA = LICENCE.txt
+data_DATA = LICENSE
 noinst_LIBRARIES = libmumbleclient.a
 libmumbleclient_a_SOURCES = src/contrib/tlse.c src/protocol/Mumble.pb-c.c src/mumbleclient.c
 
